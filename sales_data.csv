@@ -1,0 +1,15 @@
+Sales Data,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Order_Id,Date,Product,Category,City,Quantity,Price,Discount,Revenue
+101,01-01-2025,Laptop,Electronics,Delhi,23,120000,10,45000
+102,02-01-2025,Shoes,Fashion,Saharanpur,4,19000,5,2000
+103,03-01-2025,Phone,Electronics,Pune,6,50000,8,7125
+104,04-01-2025,Computer,Electronics,Mumbai,10,34000,7,3000
+105,05-01-2025,Jeans,Fashion,Roorkee,34,1200,23,700
+106,06-01-2025,T.V.,Electronics,Chandigrah,28,23000,2,10000
+107,07-01-2025,Specs,Fashion,Najibabad,1,1500,9,200
+108,08-01-2025,Lamp,Electronics,Haridware,2,2500,6,2000
+109,09-01-2025,Game,Electronics,Noida,67,28000,5,80000
+110,10-01-2025,Keyboard,Electronics,Rishkesh,30,34000,0,17000
